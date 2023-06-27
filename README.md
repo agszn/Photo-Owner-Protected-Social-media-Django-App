@@ -1,2 +1,4 @@
 # Photo-Owner-Protected-Social-media-Django-App
  Developed a privacy-focused photo-centric social media platform in Django, empowering users with control over photo access, permissions, and tamper detection.
+
+Developed a photo-centric social media platform using Django that prioritizes user privacy and control over their uploaded photos. The app offers robust features to protect photos from unauthorized access and ensure that only the photo owner has the authority to manage and share their content. Users can set privacy settings to control photo visibility, manage permissions, and even revoke access if necessary. Additionally, the app implements a tamper detection mechanism that notifies users if their photos have been tampered with. This provides an added layer of security and ensures the integrity of the shared photos. summerize in 20 words
